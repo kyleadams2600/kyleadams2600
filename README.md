@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle
 - 👀 I’m interested in statistics
-- 🌱 I’m currently participating in UIUC's inaugural Blackwell Summer Scholars Program
+- 🌱 I’m currently participating in NYU's CURP
 - 📫 How to reach me: kyleadams2600@gmail.com
 
 <!---
